@@ -1,5 +1,5 @@
 # Personal Project Making a Basic Calculator 
- ![Basic Calculator Screenshot](/CalcalatorImage.JPG)
+ ![Basic Calculator Screenshot](./CalcalatorImage.jpg)
 
 
 <https://youtu.be/j59qQ7YWLxw>
